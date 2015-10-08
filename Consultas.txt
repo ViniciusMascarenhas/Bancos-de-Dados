@@ -1,0 +1,8 @@
+Quais são os nomes e e-mails dos clientes que compraram alguma figura de um personagem da franquia Game of Thrones?
+
+Quais são os nomes e e-mails dos clientes que compraram as figuras de todas as variantes do personagem Goku da franquia Dragon Ball?
+
+Quais são os CNPJ e nomes das marcas que desenharam algum personagem da franquia The Legend of Zelda?
+
+Quais são os nomes, e-mails e telefones dos fabricantes que fabricam as figuras que estão fora de estoque na loja (Figura.estoque)?
+
