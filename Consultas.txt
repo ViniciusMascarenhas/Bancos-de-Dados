@@ -4,5 +4,4 @@ Quais são os nomes e e-mails dos clientes que compraram as figuras de todas as 
 
 Quais são os CNPJ e nomes das marcas que desenharam algum personagem da franquia The Legend of Zelda?
 
-Quais são os nomes, e-mails e telefones dos fabricantes que fabricam as figuras que estão fora de estoque na loja (Figura.estoque)?
-
+Quais são os códigos de figura; nome e variante de personagem; título de franquia; nome, telefone e e-mail dos fabricantes; e estoque atual no lote mais recente do fabricante das figuras que estão fora de estoque na loja?
